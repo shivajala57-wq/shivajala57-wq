@@ -62,5 +62,5 @@ and build scalable, reliable and useful software solutions.
 
 ## 📫 Connect With Me
 
-- LinkedIn: 
-- GitHub: Add your GitHub profile
+- LinkedIn:www.linkedin.com/in/shiva-jala 
+- GitHub: https://github.com/shivajala57-wq
