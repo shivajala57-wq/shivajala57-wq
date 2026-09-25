@@ -21,7 +21,7 @@ cloud computing, and building real-world applications.
 - Java
 - Python
 - C
-- JavaScript
+
 
 ### Web Technologies
 - HTML
@@ -42,18 +42,22 @@ cloud computing, and building real-world applications.
 
 ## 📌 Projects
 
-### 🎨 Artist Hub
+ 🎨 Artist Hub
 A web application where artists can create profiles,
 upload artwork and showcase their work.
 
-**Technologies:** Python, Django, JavaScript, Tailwind CSS, SQLite
+Technologies:Python, Django, JavaScript, Tailwind CSS, SQLite
 
-### 🏏 Smart Cricket Venue Booking System
+🏏 Smart Cricket Venue Booking System
 A platform for discovering and booking cricket venues.
+Technologies: Flutter, Dart, Firebase Authentication, Cloud Firestore, Firebase Storage.
 
-### 💻 Intelligent System for Predictive Maintenance
-A software-based system that monitors laptop performance
-and uses machine learning for predictive maintenance.
+✈️ Travel Website – Tourism & Destination Management Platform
+A full-stack web application where users can explore travel destinations, search and filter tour packages, book trips, manage wishlists, and share reviews. Includes user authentication, travel guides, and an admin dashboard for managing destinations and bookings.
+
+Technologies: Python, Django, JavaScript, HTML, CSS, SQLite
+
+
 
 ## 🎯 Career Goal
 
